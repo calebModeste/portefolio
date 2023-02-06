@@ -34,8 +34,34 @@
 
     </header>
     <main>
-        <section>
-            <p>
+        <section class="Presentation">
+            <div class="Present-me">
+                <div >
+                        <h4>DESCRIPTION</h4>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
+                            voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
+                            rem, accusantium aperiam iusto ratione.
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
+                            voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
+                            rem, accusantium aperiam iusto ratione.
+                        </p>
+                    </div>
+
+                    <div >
+                        <img src="" alt="photo_d_identité" >
+                    </div>
+            </div>
+            <div class="Present-skills">
+
+            </div>
+               
+
+        </section>
+        <section class="BTS" >
+        <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
                 voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
@@ -62,60 +88,11 @@
                 rem, accusantium aperiam iusto ratione.
 
             </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
+
+
+        </section>
+        <section class="Realisation">
+
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
@@ -145,310 +122,8 @@
             </p>
 
         </section>
-        <section>
-        <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-
-        </section>
-        <section>
-        <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-
-        </section>
-        <section>
-        <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Corrupti enim sed ipsam deleniti id veritatis animi blanditiis
-                voluptatem deserunt accusamus fugiat veniam quia beatae suscipit
-                rem, accusantium aperiam iusto ratione.
-                
-            </p>
+        <section class="VeilleTechnologique">
+        
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Corrupti enim sed ipsam deleniti id veritatis animi blanditiis

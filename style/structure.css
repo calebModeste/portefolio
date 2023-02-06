@@ -1,15 +1,46 @@
-/*STRUCTURE*/
+
 main{
-    visibility: hidden;
- padding-left:20% ;
- color: white;
+
+    /*STRUCTURE*/
+    padding-left:20% ;
+
+    /*STYLE*/
+    color: #5c5b5b;
+}
+main section{
+
+    /*STRUCTURE*/
+    padding: 2% 0%;
+}
+
+.Present-me{
+
+    /*STRUCTURE*/
+    display: flex;
+    flex-direction: row;
+
+    /*STYLE*/
+    
+
+}
+.Present-me div:nth-child(1){
+
+    /*STRUCTURE*/
+    width: 60%;
+    margin-right: 4%;
+}
+.Present-me div:nth-child(2){
+
+    /*STRUCTURE*/
+    min-height:244px;
+    width: 30%;
+    margin-left: 4%;
 }
 
 
-
-/*STYLE*/
-
 body{
+
+    /*STYLE*/
     background-image:url("../img/3ecca1c0-ba00-4058-b1c2-40b8c391e2a2.png");
     background-size: cover;
 
@@ -17,7 +48,9 @@ body{
     
 }
 
-
+section:nth-child(2),section:nth-child(3),section:nth-child(4){
+    visibility: hidden;
+}
 
 
 /*INTERACTION*/
