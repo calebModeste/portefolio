@@ -1,31 +1,68 @@
+/* les style du Dashbord laterale structurer de manier suivant "STRUCTURE" pour le placement les taille ,"Style" pour le couleur et modification des font */
 
-header{
-    /*STRUCTURE*/
-    padding: 2%;
-    position: fixed;
-    min-height: 100vh;
-    display:flex ;
-    flex-direction: column;
-    justify-content: space-between;
-
-    /*STYLE*/
-    color:white;
-    background:linear-gradient(to bottom, #000000cc,transparent,70%, #000000cc);
-
-}
-.title h1{
+@media screen and (min-width: 800px)  {
+    header{
+        /*STRUCTURE*/
+        padding: 2%;
+        position: fixed;
+        height: 96%;
+        display:flex ;
+        flex-direction: column;
+        justify-content: space-between;
+    
         /*STYLE*/
-        font-size:32px
+        color:#ffffff;
+        background:linear-gradient(to bottom, #979256,transparent,70%, #979256);
+        
+    
+    }
+    a{  
+        /*STYLE*/
+        color:#ffffff;
+        text-decoration: none;
+    
+    }
+    .title{
+        /* STRUCTURE */
+        display: flex;
+        flex-direction: row;
+    
+    
+    }
+    
+    .titrePlace{/* selection de la div contenant h1*/
+            padding-left: 3%;
+            /*STYLE*/
+            font-size:14px
+            
+            
+    }
+    .menu ul li{/* selection de la li du menu header*/
+        /*STRUCTURE*/
+         padding: 10% 0%;
+         display: flex;
+         flex-direction: row;
+         
+        /*STYLE*/
+        font-size:18px;
+    
+    
+    }
+    
+    
+    .menu ul li div{
+        margin-right:15%;
+        filter: invert(100%);
+    }
+    /* .menu ul li p, .titrePlace h1{
+        display: none;
+    } */
+    
+    header .footer{
+        margin-bottom: 15%;
+    }
 }
-.menu ul li{
-    /*STRUCTURE*/
-     padding: 10% 0%;
 
-
-    /*STYLE*/
-    font-size:18px;
-
+@media screen and( max-width:800) {
+    
 }
-
-
-

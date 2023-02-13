@@ -1,11 +1,22 @@
 
+body{
+
+    /*STYLE*/
+    background-image: url("../img/034166a5-9940-4c0c-9273-2a4dbe9d63a2.png");
+
+    
+    
+}
+
 main{
 
     /*STRUCTURE*/
-    padding-left:20% ;
+    margin-left: 30%;
+    width: 60%;
+    padding: 0% 2%;
 
     /*STYLE*/
-    color: #5c5b5b;
+    color: #ffffff;
 }
 main section{
 
@@ -38,18 +49,8 @@ main section{
 }
 
 
-body{
-
-    /*STYLE*/
-    background-image:url("../img/3ecca1c0-ba00-4058-b1c2-40b8c391e2a2.png");
-    background-size: cover;
-
-    
-    
-}
-
 section:nth-child(2),section:nth-child(3),section:nth-child(4){
-    visibility: hidden;
+    visibility: visibles;
 }
 
 
