@@ -1,3 +1,4 @@
+
 body {
     /*STYLE*/
     background: #252136;
@@ -11,50 +12,27 @@ main {
     /*STYLE*/
     color: #ffffff;
 }
-
-main section {
-    /*STRUCTURE*/
-    padding: 30vw 5%;
-    margin-bottom: 2%;
+main section{
+    width: 50vw;
+    height: 50vh;
+    margin-left: 8vw;
 }
 
-.Present-me {
-    /*STRUCTURE*/
+
+
+
+.Footer ul{
     display: flex;
     flex-direction: row;
-    /*STYLE*/
+    justify-content: space-around;
 }
-
-.Present-me div:nth-child(1) {
-    /*STRUCTURE*/
-    width: 60%;
-    margin-right: 4%;
-}
-
-.Present-me div:nth-child(2) {
-    /*STRUCTURE*/
-    min-height: 244px;
-    width: 30%;
-    margin-left: 4%;
-}
-
-#Realisation {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.project {
-    margin: 2%;
-    padding: 2%;
-    border-radius: 5px;
-    box-shadow: 2px 2px 10px #000000;
-    max-width: 14vw;
-}
-
-.project img {
-    width: 100%;
-    height: auto;
-}
-
-
 /*INTERACTION*/
+
+.grid{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template: repeat(80, 1fr) / repeat(80, 1fr)
+}
+

@@ -1,3 +1,4 @@
+
 /* les style du Dashbord laterale structurer de manier suivant "STRUCTURE" pour le placement les taille ,"Style" pour le couleur et modification des font */
 
 @media screen and (min-width: 800px) {
@@ -31,6 +32,9 @@
         padding-left: 3%;
         /*STYLE*/
         font-size: 14px
+    }
+    img{
+        filter: invert(100%);;
     }
     .menu ul li {
         /* selection de la li du menu header*/
