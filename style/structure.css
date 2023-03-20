@@ -2,37 +2,24 @@
 body {
     /*STYLE*/
     background: #252136;
+    
 }
 
 main {
     /*STRUCTURE*/
-    margin-left: 20%;
-    width: 60%;
-    padding: 0% 2%;
+
+    padding-left: 30vw;
     /*STYLE*/
     color: #ffffff;
 }
-main section{
-    width: 50vw;
-    height: 50vh;
-    margin-left: 8vw;
+main section{    
+    width: 60vw;
+    margin: 20vh 0vw;
+    
+
 }
 
 
 
-
-.Footer ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
 /*INTERACTION*/
-
-.grid{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    display: grid;
-    grid-template: repeat(80, 1fr) / repeat(80, 1fr)
-}
 

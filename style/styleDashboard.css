@@ -1,12 +1,11 @@
-
 /* les style du Dashbord laterale structurer de manier suivant "STRUCTURE" pour le placement les taille ,"Style" pour le couleur et modification des font */
 
 @media screen and (min-width: 800px) {
     header {
         /*STRUCTURE*/
-        margin: 2% 0%;
         padding: 2%;
         position: fixed;
+        top: 5vh;
         height: 85vh;
         display: flex;
         flex-direction: column;
@@ -26,15 +25,19 @@
         /* STRUCTURE */
         display: flex;
         flex-direction: row;
+        align-items:center;
+        font-size: 14px;
     }
     .titrePlace {
         /* selection de la div contenant h1*/
         padding-left: 3%;
         /*STYLE*/
-        font-size: 14px
+        
     }
-    img{
-        filter: invert(100%);;
+    header img{
+        max-width: 3vw;
+        filter: invert(100%);
+        
     }
     .menu ul li {
         /* selection de la li du menu header*/
@@ -52,6 +55,16 @@
     header .footer {
         margin-bottom: 15%;
     }
+    .Footer ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+
+
+
+
     /*INTERACTION*/
     .menu ul li:hover {
         /* selection de la li du menu header*/
@@ -62,7 +75,7 @@
         flex-direction: row;
         border-bottom: outset #6cdcf0;
         border-radius: 10px;
-        filter: blur(100%);
+        
         /*action*/
     }
 }
