@@ -1,6 +1,8 @@
-
+// vARIABLE  //
 var show,  X =4, Y=4;
 
+
+// navSection  //
 const startNav=()=>{
     Presentation=document.getElementById("Presentation").style.display='';
     Presentation=document.getElementById("BTS").style.display='none';
@@ -8,6 +10,9 @@ const startNav=()=>{
     Presentation=document.getElementById("Veille").style.display='none';
 }
 startNav();
+
+
+
 function nav(){
     
    
@@ -36,4 +41,4 @@ function nav(){
         Presentation=document.getElementById("Veille").style.display='';
     }
 }
-////////////////////////////////////////////////////////////////////////////////////////////
+////

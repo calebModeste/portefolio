@@ -71,13 +71,14 @@
         margin: 5% 0%;
         padding: 5% 2%;
         display: flex;
-        color: #6cdcf0;
+        color: #d2bb81;
         flex-direction: row;
-        border-bottom: outset #6cdcf0;
+        border-bottom: outset #d2bb81;
         border-radius: 10px;
         
         /*action*/
     }
+    
 }
 
 @media screen and( max-width:800) {}
