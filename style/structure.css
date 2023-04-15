@@ -1,7 +1,8 @@
 
 body {
     /*STYLE*/
-    background: #222e36;
+
+    background: url("../img/paulette-wooten-N8O54MgWKnQ-unsplash.jpg");
     
 }
 
@@ -23,6 +24,7 @@ main section{
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin-top: 30vh;
     
 }
 .Present-me div:nth-child(2){
@@ -39,7 +41,8 @@ main section{
 }
 /*EXPERIENCE*/
 .competence,.parcours{
-    background: linear-gradient(#d2bb81, #222e36);
+    /*STYLE*/
+    background: linear-gradient(#d2bb818a, #222e3688);
     margin: 5vh 0vw;
     box-shadow: 0px 0px 20px black ;
     border-radius: 5vw 0vh;
@@ -47,11 +50,13 @@ main section{
 }
 .competence{
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
-.element, .element p {
+.element {
     margin: 2vh 0vw;
 }
+
+
 /*Progression bar*/
 .progBar{
     width: 100%;
@@ -62,20 +67,58 @@ main section{
 }
 .progstep1{
     height: 100%;
-    width: 50%;
+    width: 80%;
     background-color:#ff0000 ;
 }
 .progstep2{
     height: 100%;
-    width: 15%;
+    width: 75%;
+    background-color:#ff0000 ;
+}
+.progstep3{
+    height: 100%;
+    width: 60%;
+    background-color:#ff0000 ;
+}
+.progstep4{
+    height: 100%;
+    width: 65%;
+    background-color:#ff0000 ;
+}.progstep5{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep6{
+    height: 100%;
+    width: 65%;
+    background-color:#ff0000 ;
+}.progstep7{
+    height: 100%;
+    width: 70%;
+    background-color:#ff0000 ;
+}
+.progstep8{
+    height: 100%;
+    width: 75%;
+    background-color:#ff0000 ;
+}.progstep9{
+    height: 100%;
+    width: 70%;
+    background-color:#ff0000 ;
+}
+.progstep1a{
+    height: 100%;
+    width: 45%;
     background-color:#ff0000 ;
 }
 .point{
-    height: 1.2vh;
+    height: 0.8vh;
     width: 1.5vw;
+    border-left: 1px  solid #000000;
     background-color:#ff0000 ;
     border-bottom-right-radius: 50vw;
-    box-shadow: 0px 0px 10px #5c0000;
+    box-shadow: 0px 0px 10px #000000;
 }
 
 
