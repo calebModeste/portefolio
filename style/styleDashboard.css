@@ -1,6 +1,7 @@
 /* les style du Dashbord laterale structurer de manier suivant "STRUCTURE" pour le placement les taille ,"Style" pour le couleur et modification des font */
 
 @media screen and (min-width: 800px) {
+    
     header {
         /*STRUCTURE*/
         padding: 2%;
