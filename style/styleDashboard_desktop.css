@@ -1,7 +1,5 @@
 /* les style du Dashbord laterale structurer de manier suivant "STRUCTURE" pour le placement les taille ,"Style" pour le couleur et modification des font */
-
-@media screen and (min-width: 800px) {
-    
+   
     header {
         /*STRUCTURE*/
         padding: 2%;
@@ -69,6 +67,7 @@
     /*INTERACTION*/
     .menu ul li:hover {
         /* selection de la li du menu header*/
+        cursor: pointer;
         margin: 5% 0%;
         padding: 5% 2%;
         display: flex;
@@ -80,6 +79,3 @@
         /*action*/
     }
     
-}
-
-@media screen and( max-width:800) {}

@@ -1,33 +1,33 @@
 
 body {
     /*STYLE*/
-
     background-color: #182025 ;
 }
 
 main {
     /*STRUCTURE*/
-
     padding-left: 30vw;
     /*STYLE*/
     color: #ffffff;
 }
-main section{    
+main section{  
+    /*STRUCTURE*/  
     width: 60vw;
     margin: 20vh 0vw;
-    
 
 }
-/*PRESENTATION */
+            /*PRESENTATION */
 .Present-me{
+    /*STRUCTURE*/
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-top: 30vh;
+
     
 }
 .Present-me div:nth-child(2){
-    
+    /*STRUCTURE*/
     border-radius: 50%;
     padding: 0vh 2vw;
     width: 20vw;
@@ -35,10 +35,11 @@ main section{
  
 }
 .Present-me div:nth-child(2) img{
+    /*STRUCTURE*/
     width: 10vw;
     
 }
-/*EXPERIENCE*/
+            /*EXPERIENCE*/
 .competence,.parcours{
     /*STYLE*/
     background: linear-gradient(#d2bb818a, #222e3688);
@@ -48,11 +49,29 @@ main section{
     padding: 2vh 5vw;
 }
 .competence{
+    /*STRUCTURE*/
     display: flex;
     flex-direction: column;
 }
 .element {
+    /*STRUCTURE*/
     margin: 2vh 0vw;
+}
+
+            /*REALISATION*/
+
+#Realisation div:nth-child(1) span:nth-child(1){
+    /*STRUCTURE*/
+    border-bottom: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    padding: 0vh 8vw;
+}
+#Realisation div:nth-child(1) span:nth-child(2){
+    /*STRUCTURE*/
+    border-bottom: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    padding: 0vh 10vw;
+
 }
 
 
@@ -64,6 +83,37 @@ main section{
     display: flex;
     flex-direction: row;
 }
+
+.point{
+    height: 0.8vh;
+    width: 1.5vw;
+    border-left: 1px  solid #000000;
+    background-color:#ff0000 ;
+    border-bottom-right-radius: 50vw;
+    box-shadow: 0px 0px 10px #000000;
+}
+
+
+            /*INTERACTION*/
+#Realisation div:nth-child(1) span:nth-child(1):hover{
+    cursor: pointer;
+    background-color: #d2bb812d;
+    color: #d2bb81;
+    border-bottom: 1px solid #d2bb81;
+    border-right: 1px solid #d2bb81;
+    padding: 0vh 8vw;
+}
+#Realisation div:nth-child(1) span:nth-child(2):hover{
+    cursor: pointer;
+    background-color: #d2bb812d;
+    color: #d2bb81;
+    border-bottom: 1px solid #d2bb81;
+    border-left: 1px solid #d2bb81;
+    padding: 0vh 10vw;
+
+}
+
+/*Progression bar*/
 .progstep1{
     height: 100%;
     width: 80%;
@@ -111,14 +161,3 @@ main section{
     width: 45%;
     background-color:#ff0000 ;
 }
-.point{
-    height: 0.8vh;
-    width: 1.5vw;
-    border-left: 1px  solid #000000;
-    background-color:#ff0000 ;
-    border-bottom-right-radius: 50vw;
-    box-shadow: 0px 0px 10px #000000;
-}
-
-
-/*INTERACTION*/

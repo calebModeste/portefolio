@@ -2,6 +2,7 @@
 var show,  X =4, Y=4;
 
 
+
 // navSection  //
 const startNav=()=>{
     Presentation=document.getElementById("Presentation").style.display='';
