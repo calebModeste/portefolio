@@ -1,72 +1,74 @@
 /* les style du Dashbord laterale structurer de manier suivant "STRUCTURE" pour le placement les taille ,"Style" pour le couleur et modification des font */
-   
-    header {
-        /*STRUCTURE*/
-        padding: 2% 5%;
-        position: fixed;
-        left: 15vw;
-        top: 5vh;
-        height: 65vh;
-        z-index: 2;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+
+header{
+    /*STRUCTRE*/
+    display: flex;
+    min-width: 96vw;
+    position:fixed;
+    top: 0;
+    flex-direction: row;
+    padding: 1vh 2vw;
+    justify-content: space-between;
+    align-items: center;
+
+    /*STYLE*/
+    color: #ffffff;
+    background: linear-gradient(#d2bb818a, #222e3688);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 10px #000000;
+}
+header .title{
+    /*STRUCTRE*/
+    display: flex;
+    flex-direction: row;
+    
+    /*STYLE*/
+    font-size: 2vw;
+}
+header .title img{
+    /*STRUCTURE*/
+    display: none;
+}
+
+header .menu ul li div{
+    display: none;
+}
+
+header .menu ul li{
+    /*STRUCTURE*/
+    padding: 0vh 2vw;
+    
+
+}
+
+header .menu ul{
+    /*STRUCTURE*/
+    display: flex;
+    flex-direction: row;
+
+    /*STYLE*/
+    font-size: 2vw;
+}
+
+header .Footer ul{
+    /*STRUCTURE*/
+    display: flex;
+    flex-direction: column;
+
+    /*STYLE*/
+    font-size: 2vw;
+
+}
+header .Footer ul li{
+    /*STRUCTURE*/
+    padding: 0.3vh 0vw;
+}
+a{
         /*STYLE*/
-        color: #ffffff;
-        background: linear-gradient(to bottom, #0000008f, transparent, 70%, #0000008f);
-        border-radius: 10px;
-        
-    }
-    a {
-        /*STYLE*/
-        color: #ffffff;
-        text-decoration: none;
-    }
-    .title {
-        /* STRUCTURE */
-        display: flex;
-        flex-direction: row;
-        align-items:center;
-        font-size: 20px;
-    }
-    .titrePlace {
-        /* selection de la div contenant h1*/
-        padding-left: 3%;
-        /*STYLE*/
-        
-    }
-    header img{
-        max-width: 10vw;
-        filter: invert(100%);
-        
-    }
-    .menu ul li {
-        /* selection de la li du menu header*/
-        /*STRUCTURE*/
-        margin: 5% 0%;
-        padding: 5% 0%;
-        display: flex;
-        flex-direction: row;
-        /*STYLE*/
-        cursor: pointer;
-        font-size: 20px;
-    }
-    .menu ul li div {
-        margin-right: 15%;
-    }
-    header .footer {
-        margin-bottom: 15%;
-    }
-    .Footer ul{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    }
-
-
-
-
-
+    color: #ffffff;
+    text-decoration: none;
+}
     /*INTERACTION*/
 
     

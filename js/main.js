@@ -1,5 +1,5 @@
 // vARIABLE  //
-var show,  X =4, Y=4;
+var show;
 
 
 
@@ -9,6 +9,7 @@ const startNav=()=>{
     Presentation=document.getElementById("BTS").style.display='none';
     Presentation=document.getElementById("Realisation").style.display='none';
     Presentation=document.getElementById("Veille").style.display='none';
+    
 }
 startNav();
 

@@ -7,14 +7,13 @@ body {
 main {
     /*STRUCTURE*/
     padding: 0vh 2vw;
-    margin: 0vh 10vw;
+    margin: 0vh 5vw;
     /*STYLE*/
     color: #ffffff;
 }
 main section{  
     /*STRUCTURE*/  
-    width: 80vw;
-    margin: 20vh 0vw;
+    margin: 10vh 0vw;
     /*STYLE*/
     font-size: 2vw;
 
@@ -67,13 +66,13 @@ main section{
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
-    padding: 0vh 5vw;
+    padding: 0vh 12vw;
 }
 #Realisation div:nth-child(1) span:nth-child(2){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
     border-left: 1px solid #ffffff;
-    padding: 0vh 10vw;
+    padding: 0vh 15vw;
 
 }
 
@@ -104,7 +103,7 @@ main section{
     color: #d2bb81;
     border-bottom: 1px solid #d2bb81;
     border-right: 1px solid #d2bb81;
-    padding: 0vh 8vw;
+    padding: 0vh 12vw;
 }
 #Realisation div:nth-child(1) span:nth-child(2):hover{
     cursor: pointer;
@@ -112,7 +111,7 @@ main section{
     color: #d2bb81;
     border-bottom: 1px solid #d2bb81;
     border-left: 1px solid #d2bb81;
-    padding: 0vh 10vw;
+    padding: 0vh 15vw;
 
 }
 
