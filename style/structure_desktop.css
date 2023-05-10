@@ -74,6 +74,17 @@ main section{
 
 }
 
+#Realisation .projet{
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(#d2bb818a, #222e3688);
+    margin: 5vh 0vw;
+    box-shadow: 0px 0px 20px black ;
+    border-radius: 5vw 5vh;
+    padding: 1vh 5vw;
+
+}
+
 
 /*Progression bar*/
 .progBar{
