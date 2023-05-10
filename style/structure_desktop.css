@@ -23,7 +23,7 @@ main section{
     flex-direction: row;
     align-items: center;
     margin-top: 30vh;
-
+    font-size: 11px;
     
 }
 .Present-me div:nth-child(2){
