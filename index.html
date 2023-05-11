@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="style/structure_desktop.css" media="screen and (min-width: 600px)">
     <link rel="stylesheet" href="style/styleDashboard_desktop.css" media="screen and (min-width: 600px)">
     <!--link style mobile-->
-    <link rel="stylesheet" href="style/structure_mobile.css" media="screen and (max-width: 590px)">
-    <link rel="stylesheet" href="style/styleDashboard_mobile.css" media="screen and (max-width: 590px)">
+    <link rel="stylesheet" href="style/structure_mobile.css" media="screen and (max-width: 600px)">
+    <link rel="stylesheet" href="style/styleDashboard_mobile.css" media="screen and (max-width: 600px)">
     
     
     <script src="js/main.js" defer></script>
@@ -58,7 +58,7 @@
                         <div>
                             <img src="img/icon/casquette-de-graduation.png" alt="etude"> 
                         </div> 
-                        <p > BTS SIO SLAM </p> 
+                        <p > Formation et parcours </p> 
                     </li> 
 
                     <li onclick="nav(show=3)">
@@ -178,52 +178,126 @@
 
 
                     </div>
-                  <!--  <div class="parcours">
-                        <div class="titre" >
-                            <h3>PARCOURS PROFESSIONELLE</h3>
-                        </div>
-                        <div class="Block">
-                            <div>
-                                
-                            </div>
-                        </div>
 
-
-                       
-                    </div>-->
             </div>
                
 
         </section>
         <section id="BTS"  >
-            <p>
-                BIENTOT DISPONIBLE
-            </p>
+            <div class="formation">
+                <div class="titre" >
+                    <h3>Formation</h3>
+                </div>
+                <div class="Block">
+                    <div>
+                        
+                    </div>
+                </div>
+
+            </div>
+            <div class="experience">
+                <div class="titre" >
+                    <h3>PARCOURS PROFESSIONELLE</h3>
+                </div>
+                <div class="Block">
+                    <div>
+                        
+                    </div>
+                </div>
+
+            </div>
 
 
         </section>
         <section id="Realisation" >
             <div>
-                <span>PROJECTS DEVELOPPER</span>
-                <span>E5</span>
+                <span onclick="typeProj(type=0)">PROJECTS</span>
+                <span onclick="typeProj(type=1)">E5</span>
+                <span onclick="typeProj(type=2)">STAGE</span>
+
             </div>
-            <div class="Project">
+            <div class="Project" id="Project">
                 <div class="projet">
-                    <div>
-                        <a href="document/project/snakeGame/play.html">snake Game</a>      
-                        <a href="">documentation</a>
+                    <div class="links">
+                        <a href="E4/snakeGame/play.html">Snake-Game</a>  
+                        <a href="">Documentation</a>
                     </div>
-                    <div>
-                        <div></div>
-                        <p>disponible</p>
+                    <div><p>type: web</p></div>
+                    <div class="status">
+                        <p>Disponible</p>
                     </div>
                 </div>
-       
-                <a href="https://github.com/calebModeste/draw_liner.git">code source draw line</a>
+                <div class="projet">
+                    <div class="links">
+                        <a href="https://github.com/calebModeste/draw_liner.git">Painter</a>
+                        <a href="">Documentation</a>
+                    </div>
+                    <div><p>type: exe</p></div>
+                    <div class="status">
+                        <p>Bientot</p>
+                    </div>
+                </div>
+                <div class="projet">
+                    <div class="links">
+                        <a href="">calculatrice</a>
+                        <a href="">Documentation</a>
+                    </div>
+                    <div><p>type: exe</p></div>
+                    <div class="status">
+                        <p>Bientot</p>
+                    </div>
+                </div>
    
             </div>
-            <div class="E5">
 
+
+            <div class="E5" id="E5">
+                <div class="Project">
+                    <div class="projet">
+                        <div class="links">
+                            <a href="">PCL</a>  
+                            <a href="">Documentation</a>
+                        </div>
+                        <div><p>type: web</p></div>
+                        <div class="status">
+                            <p>Bientot</p>
+                        </div>
+                    </div>
+                    <div class="projet">
+                        <div class="links">
+                            <a href="">PLACE MARKET(PM)</a>
+                            <a href="">Documentation</a>
+                        </div>
+                        <div><p>type: exe</p></div>
+                        <div class="status">
+                            <p>Bientot</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="stage" id="stage">
+                <div class="Project">
+                    <div class="projet">
+                        <div class="links">
+                            <a href="https://drive.google.com/drive/folders/1paswWlFClVCUw-ZwmFh8WRJHr0NYoiFt?usp=share_link">CMBZ consulting</a>  
+                            <a href="https://drive.google.com/drive/folders/1paswWlFClVCUw-ZwmFh8WRJHr0NYoiFt?usp=share_link">Documentation</a>
+                        </div>
+                        
+                        <div class="status">
+                            <p>Bientot</p>
+                        </div>
+                    </div>
+                    <div class="projet">
+                        <div class="links">
+                            <a href="https://drive.google.com/drive/folders/1Gyv1PBZ_xK2P--2LVb7DelElENZAAu2l?usp=share_link">EASTECHNOLIGIE</a>
+                            <a href="https://drive.google.com/drive/folders/1Gyv1PBZ_xK2P--2LVb7DelElENZAAu2l?usp=share_link">Documentation</a>
+                        </div>
+                        
+                        <div class="status">
+                            <p>Bientot</p>
+                        </div>
+                    </div>
+                </div>
             </div>
                 
         </section>

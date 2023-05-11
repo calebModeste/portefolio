@@ -40,7 +40,7 @@ main section{
     
 }
             /*EXPERIENCE*/
-.competence,.parcours{
+.competence,.experience, .formation{
     /*STYLE*/
     background: linear-gradient(#d2bb818a, #222e3688);
     margin: 5vh 0vw;
@@ -64,27 +64,47 @@ main section{
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
-    padding: 0vh 8vw;
+    padding: 0vh 6vw;
 }
 #Realisation div:nth-child(1) span:nth-child(2){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
-    border-left: 1px solid #ffffff;
     padding: 0vh 8vw;
 
 }
+#Realisation div:nth-child(1) span:nth-child(3){
+    /*STRUCTURE*/
+    border-bottom: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    padding: 0vh 6vw;
 
+}
 #Realisation .projet{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     background: linear-gradient(#d2bb818a, #222e3688);
     margin: 5vh 0vw;
     box-shadow: 0px 0px 20px black ;
-    border-radius: 5vw 5vh;
+    border-radius: 14px;
     padding: 1vh 5vw;
+    font-size: 80%;
 
 }
 
+
+#Realisation .projet .status{
+    align-items: center;
+    background-color: #182025;
+    padding: 0vh 2vw;
+    border-radius: 20px;
+}
+#Realisation .projet .links a:nth-child(2){
+    margin: 0vh 1vw;
+    padding: 0.5vh 2vw;
+    box-shadow: 0px 0px 20px black ;
+    border-radius: 20px;
+   }
 
 /*Progression bar*/
 .progBar{
@@ -112,18 +132,33 @@ main section{
     color: #d2bb81;
     border-bottom: 1px solid #d2bb81;
     border-right: 1px solid #d2bb81;
-    padding: 0vh 8vw;
+    padding: 0vh 6vw;
 }
 #Realisation div:nth-child(1) span:nth-child(2):hover{
     cursor: pointer;
     background-color: #d2bb812d;
     color: #d2bb81;
     border-bottom: 1px solid #d2bb81;
-    border-left: 1px solid #d2bb81;
-    padding: 0vh 10vw;
-
+    padding: 0vh 8vw;
 }
 
+#Realisation div:nth-child(1) span:nth-child(3):hover{
+    cursor: pointer;
+    background-color: #d2bb812d;
+    color: #d2bb81;
+    border-bottom: 1px solid #d2bb81;
+    border-left: 1px solid #d2bb81;
+    padding: 0vh 6vw;
+}
+#Realisation .projet .links a:nth-child(1):hover{
+    color: #d2bb81;
+   }
+#Realisation .projet .links a:nth-child(2):hover{
+    margin: 0vh 1vw;
+    padding: 0.5vh 2vw;
+    box-shadow:inset 0px 0px 5px black ;
+    border-radius: 20px;
+   }
 /*Progression bar*/
 .progstep1{
     height: 100%;
