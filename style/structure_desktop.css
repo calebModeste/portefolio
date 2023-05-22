@@ -57,6 +57,17 @@ main section{
     /*STRUCTURE*/
     margin: 2vh 0vw;
 }
+            /*FORMATION*/
+
+.Block div{
+    /*STRUCTURE*/
+    margin: 2vh 1vw;
+}
+.Block div p{
+    
+    /*STYLE*/
+    color:rgba(240, 204, 114, 0.541) ;
+}
 
             /*REALISATION*/
 
