@@ -110,12 +110,14 @@ main section{
     border-bottom: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
     padding: 0vh 8vw;
+    margin-right: 0.5vw;
 }
 #Realisation div:nth-child(1) span:nth-child(2){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
     border-left: 1px solid #ffffff;
     padding: 0vh 10vw;
+    margin-left: 0.5vw;
 }
 
 #Realisation .projet{
