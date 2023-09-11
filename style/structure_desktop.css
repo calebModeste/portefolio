@@ -203,6 +203,170 @@ main section{
 /*Progression bar*/
 .progstep1{
     height: 100%;
+    width: 69%;
+    background-color:#ff0000 ;
+}
+.progstep2{
+    height: 100%;
+    width: 60%;
+    background-color:#ff0000 ;
+}
+.progstep3{
+    height: 100%;
     width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep4{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep5{
+    height: 100%;
+    width: 70%;
+    background-color:#ff0000 ;
+}
+.progstep6{
+    height: 100%;
+    width: 75%;
+    background-color:#ff0000 ;
+}
+.progstep7{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep8{
+    height: 100%;
+    width: 45%;
+    background-color:#ff0000 ;
+}
+.progstep9{
+    height: 100%;
+    width: 70%;
+    background-color:#ff0000 ;
+}
+.progstep1a{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep2a{
+    height: 100%;
+    width: 60%;
+    background-color:#ff0000 ;
+}
+.progstep3a{
+    height: 100%;
+    width: 70%;
+    background-color:#ff0000 ;
+}
+.progstep4a{
+    height: 100%;
+    width: 65%;
+    background-color:#ff0000 ;
+}
+.progstep5a{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep6a{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep7a{
+    height: 100%;
+    width: 65%;
+    background-color:#ff0000 ;
+}
+.progstep8a{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep9a{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep1b{
+    height: 100%;
+    width: 60%;
+    background-color:#ff0000 ;
+}
+.progstep2b{
+    height: 100%;
+    width: 65%;
+    background-color:#ff0000 ;
+}
+.progstep3b{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep4b{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep5b{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep6b{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep7b{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep8b{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep9b{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}.progstep1c{
+    height: 100%;
+    width: 80%;
+    background-color:#ff0000 ;
+}
+.progstep2c{
+    height: 100%;
+    width: 55%;
+    background-color:#ff0000 ;
+}
+.progstep3c{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep4c{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep5c{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep6c{
+    height: 100%;
+    width: 50%;
+    background-color:#ff0000 ;
+}
+.progstep7c{
+    height: 100%;
+    width: 55%;
     background-color:#ff0000 ;
 }

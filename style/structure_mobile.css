@@ -28,17 +28,21 @@ main section{
 
     
 }
+.Present-me div:nth-child(1){
+    /*STRUCTURE*/
+    width: 70%;
+}
 .Present-me div:nth-child(2){
     /*STRUCTURE*/
     border-radius: 50%;
     padding: 0vh 2vw;
-    width: 20vw;
+    width: 30%;
     margin-left: 5vw;
  
 }
 .Present-me div:nth-child(2) img{
     /*STRUCTURE*/
-    width: 10vw;
+    width: 25vw;
     
 }
             /*EXPERIENCE*/
