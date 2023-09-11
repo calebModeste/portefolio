@@ -57,22 +57,54 @@ main section{
 }
 .element {
     /*STRUCTURE*/
-    margin: 2vh 0vw;
+    margin: 2vh 2vw;
 }
+.element  h4{
+    /*STYLE*/
+    color: #dedede;
+}
+
+
+
             /*FORMATION*/
 
+.Block{
+    /*STYLE*/
+    border-radius: 15px;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
 .Block div{
     /*STRUCTURE*/
-    margin: 2vh 1vw;
+    margin: 5vh 2vw;
+
+}
+.Block div b{
+    /*STYLE*/
+    font-size: 0.8rem;
 }
 .Block div p{
     
     /*STYLE*/
-    color:rgba(240, 204, 114, 0.541) ;
+    color:#f0cc728a ;
+}
+.Block div ul li{
+    /*STRUCTURE*/
+    margin: 1vh 2vw;
+
+    /*STYLE*/
+    color:#dedede ;
 }
 
-            /*REALISATION*/
 
+
+
+            /*REALISATION*/
+#Realisation > div:nth-child(1){
+    display: flex;
+    justify-content: center;
+}
 #Realisation div:nth-child(1) span:nth-child(1){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
@@ -82,15 +114,10 @@ main section{
 #Realisation div:nth-child(1) span:nth-child(2){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
-
-    padding: 0vh 15vw;
-}
-#Realisation div:nth-child(1) span:nth-child(3){
-    /*STRUCTURE*/
-    border-bottom: 1px solid #ffffff;
     border-left: 1px solid #ffffff;
-    padding: 0vh 8vw;
+    padding: 0vh 10vw;
 }
+
 #Realisation .projet{
     display: flex;
     flex-direction: row;
@@ -164,47 +191,5 @@ main section{
 .progstep1{
     height: 100%;
     width: 80%;
-    background-color:#ff0000 ;
-}
-.progstep2{
-    height: 100%;
-    width: 75%;
-    background-color:#ff0000 ;
-}
-.progstep3{
-    height: 100%;
-    width: 60%;
-    background-color:#ff0000 ;
-}
-.progstep4{
-    height: 100%;
-    width: 65%;
-    background-color:#ff0000 ;
-}.progstep5{
-    height: 100%;
-    width: 80%;
-    background-color:#ff0000 ;
-}
-.progstep6{
-    height: 100%;
-    width: 65%;
-    background-color:#ff0000 ;
-}.progstep7{
-    height: 100%;
-    width: 70%;
-    background-color:#ff0000 ;
-}
-.progstep8{
-    height: 100%;
-    width: 75%;
-    background-color:#ff0000 ;
-}.progstep9{
-    height: 100%;
-    width: 70%;
-    background-color:#ff0000 ;
-}
-.progstep1a{
-    height: 100%;
-    width: 20%;
     background-color:#ff0000 ;
 }

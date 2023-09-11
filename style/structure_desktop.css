@@ -16,6 +16,9 @@ main section{
     margin: 20vh 0vw;
 
 }
+
+
+
             /*PRESENTATION */
 .Present-me{
     /*STRUCTURE*/
@@ -39,6 +42,9 @@ main section{
     width: 10vw;
     
 }
+
+
+
             /*EXPERIENCE*/
 .competence,.experience, .formation{
     /*STYLE*/
@@ -55,39 +61,67 @@ main section{
 }
 .element {
     /*STRUCTURE*/
-    margin: 2vh 0vw;
+    margin: 2vh 2vw;
 }
-            /*FORMATION*/
+.element  h4{
+    /*STYLE*/
+    color: #dedede;
+}
 
+
+
+            /*FORMATION*/
+.Block{
+    /*STYLE*/
+    border-radius: 15px;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
 .Block div{
     /*STRUCTURE*/
-    margin: 2vh 1vw;
+    margin: 5vh 2vw;
+
+}
+.Block div b{
+    /*STYLE*/
+    font-size: 1.2rem;
 }
 .Block div p{
     
     /*STYLE*/
-    color:rgba(240, 204, 114, 0.541) ;
+    color:#f0cc728a ;
+}
+.Block div ul li{
+    /*STRUCTURE*/
+    margin: 1vh 2vw;
+
+    /*STYLE*/
+    color:#dedede ;
 }
 
+
+
             /*REALISATION*/
+#Realisation > div:nth-child(1){
+    display: flex;
+    justify-content: center;
+}
 
 #Realisation div:nth-child(1) span:nth-child(1){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
     padding: 0vh 6vw;
+    margin-right: 0.2vw;
 }
-#Realisation div:nth-child(1) span:nth-child(2){
-    /*STRUCTURE*/
-    border-bottom: 1px solid #ffffff;
-    padding: 0vh 8vw;
 
-}
-#Realisation div:nth-child(1) span:nth-child(3){
+#Realisation div:nth-child(1) span:nth-child(2){
     /*STRUCTURE*/
     border-bottom: 1px solid #ffffff;
     border-left: 1px solid #ffffff;
     padding: 0vh 6vw;
+    margin-left: 0.2vw;
 
 }
 #Realisation .projet{
@@ -136,6 +170,8 @@ main section{
 }
 
 
+
+
             /*INTERACTION*/
 #Realisation div:nth-child(1) span:nth-child(1):hover{
     cursor: pointer;
@@ -145,15 +181,9 @@ main section{
     border-right: 1px solid #d2bb81;
     padding: 0vh 6vw;
 }
-#Realisation div:nth-child(1) span:nth-child(2):hover{
-    cursor: pointer;
-    background-color: #d2bb812d;
-    color: #d2bb81;
-    border-bottom: 1px solid #d2bb81;
-    padding: 0vh 8vw;
-}
 
-#Realisation div:nth-child(1) span:nth-child(3):hover{
+
+#Realisation div:nth-child(1) span:nth-child(2):hover{
     cursor: pointer;
     background-color: #d2bb812d;
     color: #d2bb81;
@@ -174,47 +204,5 @@ main section{
 .progstep1{
     height: 100%;
     width: 80%;
-    background-color:#ff0000 ;
-}
-.progstep2{
-    height: 100%;
-    width: 75%;
-    background-color:#ff0000 ;
-}
-.progstep3{
-    height: 100%;
-    width: 60%;
-    background-color:#ff0000 ;
-}
-.progstep4{
-    height: 100%;
-    width: 65%;
-    background-color:#ff0000 ;
-}.progstep5{
-    height: 100%;
-    width: 80%;
-    background-color:#ff0000 ;
-}
-.progstep6{
-    height: 100%;
-    width: 65%;
-    background-color:#ff0000 ;
-}.progstep7{
-    height: 100%;
-    width: 70%;
-    background-color:#ff0000 ;
-}
-.progstep8{
-    height: 100%;
-    width: 75%;
-    background-color:#ff0000 ;
-}.progstep9{
-    height: 100%;
-    width: 70%;
-    background-color:#ff0000 ;
-}
-.progstep1a{
-    height: 100%;
-    width: 45%;
     background-color:#ff0000 ;
 }
