@@ -18,33 +18,60 @@ main section{
     font-size: 2vw;
 
 }
-            /*PRESENTATION */
+
+
+/*PRESENTATION */
 .Present-me{
     /*STRUCTURE*/
     display: flex;
     flex-direction: row;
-    align-items: center;
-    margin-top: 30vh;
+    margin: 12vh 4vw;
 
+    /*STYLE*/
+    font-size: 15px;
     
 }
-.Present-me div:nth-child(1){
+.Present-me .text-me{
     /*STRUCTURE*/
-    width: 70%;
-}
-.Present-me div:nth-child(2){
-    /*STRUCTURE*/
-    border-radius: 50%;
-    padding: 0vh 2vw;
-    width: 30%;
-    margin-left: 5vw;
- 
-}
-.Present-me div:nth-child(2) img{
-    /*STRUCTURE*/
-    width: 25vw;
+    width: 420px;
+    margin-top: 50px;
+    font-size: 7px;
     
 }
+.Present-me .text-me h2{
+    /*STRUCTURE*/
+    margin: 0px 20px;
+    font-size: 8px;
+    
+    
+}
+
+
+.Present-me .watch-me{
+    /*STRUCTURE*/
+    position: relative;
+}
+.Present-me .watch-me .myPicture{
+    /*STRUCTURE*/
+    margin: 0px 30px;
+    width: 80px;
+    height: 160px;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+
+
+}
+.Present-me .watch-me a img{
+    /*STRUCTURE*/
+    width: 40px;
+    height: 50px;
+    position: absolute;
+    bottom: 1px;
+    right: 20px;
+    
+}
+
             /*EXPERIENCE*/
 .competence,.experience, .formation{
     /*STYLE*/
@@ -147,7 +174,7 @@ main section{
 #Realisation .projet .links a:nth-child(1){
     color: #d2bb81;
    }
-#Realisation .projet .links a:nth-child(2){
+#Realisation .projet .links .button{
     margin: 0vh 1vw;
     padding: 0.5vh 2vw;
     box-shadow: 0px 0px 20px black ;

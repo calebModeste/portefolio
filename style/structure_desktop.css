@@ -13,7 +13,7 @@ main {
 main section{  
     /*STRUCTURE*/  
     width: 60vw;
-    margin: 20vh 0vw;
+    padding: 15vh 0vw;
 
 }
 
@@ -24,24 +24,56 @@ main section{
     /*STRUCTURE*/
     display: flex;
     flex-direction: row;
-    align-items: center;
-    margin-top: 30vh;
-    font-size: 11px;
+    margin: 0vh 4vw;
+    margin-bottom: 25vh;
+
+
     
 }
-.Present-me div:nth-child(2){
+.Present-me .text-me{
     /*STRUCTURE*/
-    border-radius: 50%;
-    padding: 0vh 2vw;
+    padding: 20% 0%;
+
+    /*STYLE*/
+    font-size: 1vw;
+    
+}
+.Present-me .text-me h2{
+    /*STRUCTURE*/
+    margin: 0px 20px;
+    
+    /*STYLE*/
+    font-size: 1.2vw;
+    
+}
+
+
+.Present-me .watch-me{
+    /*STRUCTURE*/
+    position: relative;
+}
+.Present-me .watch-me .myPicture{
+    /*STRUCTURE*/
+    margin: 0px 30px;
     width: 20vw;
-    margin-left: 5vw;
- 
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+
+
 }
-.Present-me div:nth-child(2) img{
+.Present-me .watch-me a img{
     /*STRUCTURE*/
-    width: 10vw;
+    width: 8vw;
+    position: absolute;
+    bottom: 10px;
+    right: 8px;
     
 }
+
+
+
+
 
 
 
@@ -53,6 +85,9 @@ main section{
     box-shadow: 0px 0px 20px black ;
     border-radius: 5vw 0vh;
     padding: 2vh 5vw;
+    font-size: 0.9vw;
+
+    
 }
 .competence{
     /*STRUCTURE*/
@@ -70,7 +105,8 @@ main section{
 
 
 
-            /*FORMATION*/
+            /*BTS*/
+
 .Block{
     /*STYLE*/
     border-radius: 15px;
@@ -82,10 +118,8 @@ main section{
     /*STRUCTURE*/
     margin: 5vh 2vw;
 
-}
-.Block div b{
     /*STYLE*/
-    font-size: 1.2rem;
+    font-size: 1vw;
 }
 .Block div p{
     
@@ -103,6 +137,11 @@ main section{
 
 
             /*REALISATION*/
+#Realisation{
+    /*STYLE*/
+    font-size: 0.6vw;
+        
+}
 #Realisation > div:nth-child(1){
     display: flex;
     justify-content: center;
@@ -133,7 +172,6 @@ main section{
     box-shadow: 0px 0px 20px black ;
     border-radius: 14px;
     padding: 1vh 5vw;
-    font-size: 80%;
 
 }
 
@@ -144,7 +182,7 @@ main section{
     padding: 0vh 2vw;
     border-radius: 20px;
 }
-#Realisation .projet .links a:nth-child(2){
+#Realisation .projet .links .button{
     margin: 0vh 1vw;
     padding: 0.5vh 2vw;
     box-shadow: 0px 0px 20px black ;
@@ -194,7 +232,7 @@ main section{
 #Realisation .projet .links a:nth-child(1):hover{
     color: #d2bb81;
    }
-#Realisation .projet .links a:nth-child(2):hover{
+#Realisation .projet .links .button:hover{
     margin: 0vh 1vw;
     padding: 0.5vh 2vw;
     box-shadow:inset 0px 0px 5px black ;
